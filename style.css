@@ -1,0 +1,44 @@
+body {
+  background-color: #1D1D1D;
+  margin: 20px;
+  }
+h1 {
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 36px;
+  color: white;
+}
+
+h2 {
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+h3 {
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 15px;
+  color: white;
+}
+
+.green-text {
+  color: #C5DD82;
+}
+
+#header {
+}
+
+.button {
+  border-radius: 3px;
+  width: 120px;
+  height: 40px;
+  background-color: #717E4C;
+  text-align: center;
+}
+
+.button-red {
+  background-color: #BA6957;
+}
+
+#game-options {
+  position: inherit;
+}
