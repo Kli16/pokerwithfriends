@@ -1,7 +1,8 @@
 body {
   background-color: #1D1D1D;
   margin: 20px;
-  }
+}
+
 h1 {
   font-family: 'Roboto Mono', sans-serif;
   font-size: 36px;
@@ -29,14 +30,21 @@ h3 {
 
 .button {
   border-radius: 3px;
-  width: 120px;
-  height: 40px;
-  background-color: #717E4C;
+  width: 100px;
+  height: 33px;
   text-align: center;
+}
+
+.button-green {
+  background-color: #717E4C;
 }
 
 .button-red {
   background-color: #BA6957;
+}
+
+.button-gray {
+  background-color: #C4C4C4;
 }
 
 #game-options {
